@@ -8,6 +8,8 @@ image: /img/2026-09-09_split_universe-1.jpeg
 author: Mr Wnow
 tags:
   - Science
+categories:
+  - Science
 ---
 I woke up feeling dull one morning. I really wanted to go to work... but then I took off for the day. Let's say, somewhere out there, another version of me pushed through and showed up anyway.
 
