@@ -1,0 +1,18 @@
+baseURL = "https://wjhnow.com/Hugotest/"
+title = "What Just Happened NOW"
+languageCode = "en-us"
+
+enableRobotsTXT = true
+
+[params]
+  description = "The internet is full of news. We do the weird stuff. Science, space, and tech facts you didn’t know you needed."
+  mainSections = ["post"]
+  
+  [sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+  
+[params.article]
+    [params.article.related]
+        enable = false
